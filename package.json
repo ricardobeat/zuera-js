@@ -1,0 +1,35 @@
+{
+  "name": "zuerajs",
+  "version": "1.0.0",
+  "description": "Detect zuera in your entry data.",
+  "main": "zuera.js",
+  "scripts": {
+    "test": "tape test/* | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ricardobeat/zuera-js.git"
+  },
+  "keywords": [
+    "zuera",
+    "filter",
+    "list",
+    "sus",
+    "zoeira",
+    "cadastro"
+  ],
+  "author": "Ricardo Tomasi <ricardobeat@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardobeat/zuera-js/issues"
+  },
+  "homepage": "https://github.com/ricardobeat/zuera-js#readme",
+  "dependencies": {
+    "diacritics": "^1.2.3"
+  },
+  "devDependencies": {
+    "tap-nyan": "0.0.2",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.6.2"
+  }
+}
