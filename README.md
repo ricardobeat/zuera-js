@@ -10,4 +10,4 @@ The module exports an array of invalid data strings, extended with a special con
 
     var zuera = require('zuerajs')
 
-    zuera.contains('PASTEL DE PELO') // true
+    zuera.contains('BUEIRO ONDE DESCE O CARECA') // true

@@ -1,7 +1,7 @@
 {
   "name": "zuerajs",
-  "version": "1.0.2",
-  "description": "Detect zuera in your entry data.",
+  "version": "1.0.4",
+  "description": "Government-sanctioned name validation (PT-BR).",
   "main": "zuera.js",
   "scripts": {
     "test": "tape test/* | tap-spec"
